@@ -4,4 +4,4 @@ layout: home
 ---
 
 # STOCK PRICE PREDICTER FOUND HERE
-## Download the file down below
+## Click to download the file 
