@@ -54,4 +54,4 @@ layout: home
 </body>
 </html>
 
-<iframe width="480" height="390" frameBorder=0 allowfullscreen allow="geolocation; microphone;camera" src="https://snap.berkeley.edu/embed?projectname=Mordern_art_extra&username=devarshk&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"></iframe>
+
